@@ -3,6 +3,11 @@ Stochastic Spectroscopy at TIMEX\
 An IgorPro 8 suite for data analysis\
 written by Dario De Angelis 13/02/2023
 
+This code has been used for a study on Si bond softening:\
+<b>"FEL stochastic spectroscopy revealing silicon bond softening dynamics"</b>\
+pre-print available on arXiv:2305.05258
+
+
 
 Step 1:	INSTALLATION 
 
