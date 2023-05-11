@@ -1,13 +1,12 @@
 # FERMI-correlation-spectroscopy
+Stochastic Spectroscopy at TIMEX\
+An IgorPro 8 suite for data analysis\
+written by Dario De Angelis 13/02/2023
 
-======================================================
-========   Stochastic Spectroscopy at TIMEX   ========
-======   An IgorPro 8 suite for data analysis   ======
-        written by Dario De Angelis 13/02/2023
-======================================================
 
 Step 1:	INSTALLATION 
-		- Install IgorPro 8.
+
+		- Install IgorPro 8.	
 		- Copy the "WaveMetrix" folder in your Document folder 
 		- Verify XOP Toolkit 8 is properly installed
 		- Verify HDF5 Extension is present in
@@ -15,12 +14,14 @@ Step 1:	INSTALLATION
 		  otherwise install it (copy "File Loaders" folder in the aforementioned path
 
 Step 2: EXPERIMENT FILE SETTING
+
 		- Open IgorPro 8 and copy in the procedure the following line:
 		  #include "Reconstruction_Live2"
 		- Compile the procedure.
 		"T-Reconstruction" menu should appear in the menu bar.
 		
 Step 3: DATA ANALYSIS
+
 		- Load Data (ctrl+1) 
 		  Select the "rawdata" folder in the online4eis store.
 		  Follow the "Load H5 file" prompt window instruction.
