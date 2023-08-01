@@ -7,7 +7,9 @@ This code has been used for a study on Si bond softening:\
 <b>"FEL stochastic spectroscopy revealing silicon bond softening dynamics"</b>\
 pre-print available on arXiv:2305.05258
 
-
+Published version:\
+<b>"Free electron laser stochastic spectroscopy revealing silicon bond softening dynamics"</b>\
+Phys. Rev. B 107, 214305 (2023) https://doi.org/10.1103/PhysRevB.107.214305\
 
 Step 1:	INSTALLATION 
 
